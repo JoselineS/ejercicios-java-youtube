@@ -1,2 +1,2 @@
-# ejercicios-java-youtube
-Ejercicios de Java del canal de discoduroderoer
+# Ejercicios java
+Ejercicios de Java para praticar y guardar conocimientos
